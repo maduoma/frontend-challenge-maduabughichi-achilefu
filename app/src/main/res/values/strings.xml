@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">Frontend Challenge Maduabughichi Achilefu</string>
+    <string name="app_name">Country Holidays</string>
+    <string name="text_email_address">Email Address</string>
+    <string name="text_password">Password</string>
+    <string name="text_login">Login</string>
+    <string name="text_retry">Retry</string>
+    <string name="text_types">Type</string>
+    <string name="text_local_name">Local Name</string>
+    <string name="text_name">Name</string>
 </resources>
+
