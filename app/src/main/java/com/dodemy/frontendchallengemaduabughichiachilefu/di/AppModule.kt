@@ -1,7 +1,6 @@
 package com.dodemy.frontendchallengemaduabughichiachilefu.di
 
 import com.google.gson.Gson
-//import com.dodemy.frontendchallengemaduabughichiachilefu.BuildConfig
 import com.dodemy.frontendchallengemaduabughichiachilefu.data.HolidayService
 import com.dodemy.frontendchallengemaduabughichiachilefu.repository.HolidayRepository
 import com.dodemy.frontendchallengemaduabughichiachilefu.repository.HolidayRepositoryImpl

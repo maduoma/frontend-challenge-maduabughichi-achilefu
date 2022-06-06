@@ -13,8 +13,6 @@ import androidx.recyclerview.widget.DividerItemDecoration
 import com.dodemy.frontendchallengemaduabughichiachilefu.R
 import com.dodemy.frontendchallengemaduabughichiachilefu.databinding.FragmentHomeBinding
 import com.dodemy.frontendchallengemaduabughichiachilefu.model.Country
-import com.dodemy.frontendchallengemaduabughichiachilefu.ui.home.CountryAdapter
-import com.dodemy.frontendchallengemaduabughichiachilefu.ui.home.HomeViewModel
 import com.dodemy.frontendchallengemaduabughichiachilefu.util.viewBinding
 import kotlinx.coroutines.launch
 import org.koin.androidx.viewmodel.ext.android.viewModel

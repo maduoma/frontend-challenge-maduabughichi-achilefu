@@ -1,7 +1,6 @@
 package com.dodemy.frontendchallengemaduabughichiachilefu
 
 import android.app.Application
-//import androidx.viewbinding.BuildConfig
 import com.dodemy.frontendchallengemaduabughichiachilefu.di.appModule
 import com.dodemy.frontendchallengemaduabughichiachilefu.di.holidayModule
 import com.dodemy.frontendchallengemaduabughichiachilefu.di.homeModule
